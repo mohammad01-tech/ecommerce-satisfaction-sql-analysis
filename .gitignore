@@ -1,0 +1,13 @@
+# Raw data - large files, not meant for git history
+data/*.csv
+olist
+*.db
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
